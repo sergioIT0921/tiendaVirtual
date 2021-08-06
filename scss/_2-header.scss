@@ -1,0 +1,39 @@
+.header{
+    background-color: rgba(231, 231, 214, 0.473); 
+    width: 100%;
+
+    .logo__link{
+        text-decoration: none;
+        list-style: none;
+        
+        
+        .logo__titulo {
+            color: rgba(133, 133, 131, 0.644);
+            text-decoration: none;
+            list-style: none;
+
+            .principal-2{ 
+                color: rgba(83, 83, 75, 0.644);
+            }
+
+       
+        }
+
+   
+    }
+
+    // menu de navegacion
+    .nav-link{
+        font-size: 20px;
+        &:hover{
+            text-decoration: overline;
+            
+        }
+    }
+
+    // slider-carousel
+    .slider-css img{
+        height: 10%;
+     }
+
+}

@@ -1,0 +1,32 @@
+ @media (max-width: 576px) { 
+    .contenido__texto{
+        font-size: 10px;
+        padding: 0 15px;
+        line-height: 27px;
+    }
+
+    .footer-contacto{
+    background-color: rgba(209, 209, 196, 0.473);
+    color: rgba(100, 100, 80, 0.644);
+
+    .footer-titulo{
+        padding-top: 20px;
+        font-size: 30px;
+    }
+}
+ }
+
+@media (max-width: 768px) { 
+    .logo__titulo {
+        font-size: 30px;
+    }
+
+}
+
+@media (min-width: 992px) { 
+    .logo__titulo {
+        font-size: 50px;
+    }
+    
+
+}
